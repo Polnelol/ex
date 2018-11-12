@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{139:function(n,t,e){"use strict";e.r(t);var i=e(18),l=Object(i.a)({},function(){var n=this.$createElement,t=this._self._c||n;return t("h1",[t("nuxt-link",{attrs:{to:"/"}},[this._v("link1")])],1)},[],!1,null,null,null);l.options.__file="index.vue";t.default=l.exports}}]);
